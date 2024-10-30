@@ -1,0 +1,1 @@
+mareike_load_ajax_nw( 'print-invoice', 'invoice-id=' + mareike_data.invoice_id )

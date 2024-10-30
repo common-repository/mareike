@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+
+msgid "mareike"
+msgstr "mareike"
+
+msgid "Your request for refund has been rejected"
+msgstr "Dein Antrag auf Kostenerstattung wurde abgelehnt"
+
+msgid "You can now start processing the invoices."
+msgstr "Du kannst nun mit der Bearbeitung der Abrechnungen beginnen."
+
+msgid "The cost center %s was closed today because the expiration date for submitting documents was reached."
+msgstr "Die Kostenstelle %s wurde heute geschlossen, da die Frist zur Einreichung von Unterlagen erreicht wurde."
+
+msgid "The cost center %s was closed"
+msgstr "Die Kostenstelle %s wurde geschlossen"
+
+msgid "Please log in to %s in order to to check it."
+msgstr "Bitte logge dich unter %s ein um diese zu prüfen"
+
+msgid "A new invoice for cost center %s was created."
+msgstr "Eine neue Abrechnung für die Kostenstelle %s wurde erzeugt."
+
+msgid "Capture invoice"
+msgstr "Abrechnung erfassen"
+
+msgid "Default user"
+msgstr "Standardnutzer*in"
+
+msgid "State director"
+msgstr "Landesvorstand"
+
+msgid "Club director"
+msgstr "StaFü"
+
+msgid "Treasurer"
+msgstr "Schatzmeister*in"
+
+msgid "Billing information"
+msgstr "Abrechnungsdaten"
+
+msgid "Invoices"
+msgstr "Abrechnungen"
+
+msgid "Current events"
+msgstr "Aktuelle Veranstaltungen"
+
+msgid "Current jobs"
+msgstr "Laufende Tätigkeiten"
+
+msgid "Closed events"
+msgstr "Geschlossene Veranstaltungen"
+
+msgid "Archived events"
+msgstr "Archivierte Veranstaltungen"
+
+msgid "Add cost center"
+msgstr "Abrechnungsstelle hinzufügen"
+
+msgid "Event name"
+msgstr "Veranstaltungsname"
+
+msgid "Open invoices"
+msgstr "Offene Abrechnungen"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Total costs"
+msgstr "Gesamtkosten"
+
+msgid "Donations"
+msgstr "Spenden"
+
+msgid "Unprocessed"
+msgstr "Unbearbeitet"
+
+msgid "Unexported"
+msgstr "Nicht exportiert"
+
+msgid "Without payout"
+msgstr "Ohne Auszahlung"
+
+msgid "Denied"
+msgstr "Abgelehnt"
+
+msgid "Deny new requests"
+msgstr "Verbiete neue Anträge"
+
+msgid "Export payouts"
+msgstr "Auszahlungen exportieren"
+
+msgid "Exported invoices"
+msgstr "Exportierte Anträge"
+
+msgid "Allow new requests"
+msgstr "Erlaube neue Anträge"
+
+msgid "Archive"
+msgstr "Archivieren"
+
+msgid "Cost center name"
+msgstr "Name der Kostenstelle"
+
+msgid "E-mail Address (for notifications)"
+msgstr "E-Mail-Adresse (für Benachrichtigungen)"
+
+msgid "Distance allowance"
+msgstr "Kilometerpauschale"
+
+msgid "Notify on new invoice"
+msgstr "Bei neuer Abrechnung benachrichtigen"
+
+msgid "Event"
+msgstr "Veranstaltung"
+
+msgid "Job"
+msgstr "Laufende Tätigkeit"
+
+msgid "Event start"
+msgstr "Veranstaltungsbeginn"
+
+msgid "Accept invoices until"
+msgstr "Abrechnungen möglich bis"
+
+msgid "Create cost center"
+msgstr "Abrechnungsstelle anlegen"
+
+msgid "Edit cost center"
+msgstr "Abrechnungsstelle bearbeiten"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "Your profile is not complete."
+msgstr "Dein Profil ist unvollständig."
+
+msgid "Please complete"
+msgstr "Bitte vervollständige"
+
+msgid "your profile"
+msgstr "dein Profil"
+
+msgid "to be able to use all comfort functions."
+msgstr "um alle Comfort-Funktionen nutzen zu können."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "First name"
+msgstr "Vorname"
+
+msgid "Last name"
+msgstr "Nachname"
+
+msgid "E-mail address"
+msgstr "E-Mail-Adresse"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "Deny request"
+msgstr "Antrag ablehnen"
+
+msgid "Reason for deny"
+msgstr "Begründung der Ablehnung"
+
+msgid "Invoices for"
+msgstr "Abrechnungen für"
+
+msgid "No."
+msgstr "Nr."
+
+msgid "Type of invoice"
+msgstr "Abrechnungstyp"
+
+msgid "Amount"
+msgstr "Betrag"
+
+msgid "Applicant"
+msgstr "Antragsstellende Person"
+
+msgid "Process invoice"
+msgstr "Abrechnung bearbeiten"
+
+msgid "Show invoice"
+msgstr "Abrechnung zeigen"
+
+msgid "Print invoice"
+msgstr "Abrechnung drucken"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Invoice number"
+msgstr "Abrechnungsnummer"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Cost center"
+msgstr "Abrechnungsstelle"
+
+msgid "Passengers"
+msgstr "Mitfahrende"
+
+msgid "Material transportation"
+msgstr "Materialtransport"
+
+msgid "Distance"
+msgstr "Entfernung"
+
+msgid "Expenses"
+msgstr "Auslagen"
+
+msgid "Total amount"
+msgstr "Gesamtbetrag"
+
+msgid "Show receipt"
+msgstr "Zeige Beleg"
+
+msgid "Confirm and print"
+msgstr "Akzeptieren und drucken"
+
+msgid "For resubmission"
+msgstr "Zur Wiedervorlage"
+
+msgid "Your name"
+msgstr "Dein Name"
+
+msgid "No nickname"
+msgstr "Kein Pfadiname"
+
+msgid "For clarification"
+msgstr "Für Rückfragen"
+
+msgid "Do you want to donate the amount?"
+msgstr "Möchtest du den Betrag spenden?"
+
+msgid "What did you pay for?"
+msgstr "Wofür hast du die Zahlung geleistet?"
+
+msgid "Accommodation"
+msgstr "Unterkunft"
+
+msgid "Catering"
+msgstr "Verpflegung"
+
+msgid "Program"
+msgstr "Programm"
+
+msgid "Other"
+msgstr "Sonstiges"
+
+msgid "Travelling"
+msgstr "Reisekosten"
+
+msgid "How much is the amount?"
+msgstr "Wie hoch ist der Rechnungsbetrag?"
+
+msgid "Select receipt and continue"
+msgstr "Beleg auswählen und weiter"
+
+msgid "Please indicate your route"
+msgstr "Bitte gib deinen Reiseweg an"
+
+msgid "Have you traveled by public transport or a rental car and have a receipt?"
+msgstr "Bist du mit öffentlichen Verkehrsmitteln oder einem Mietwagen gefahren, und besitzt einen Beleg?"
+
+msgid "Information about the trip"
+msgstr "Informationen zur Fahrt"
+
+msgid "People in your vehicle"
+msgstr "Menschen im Fahrzeug"
+
+msgid "I transported material."
+msgstr "Ich habe Material in meinem PKW transportiert."
+
+msgid "Total distance"
+msgstr "Gesamtstrecke"
+
+msgid "total"
+msgstr "gesamt"
+
+msgid "Bill a flat rate"
+msgstr "Pauschalbetrag abrechnen"
+
+msgid "Your cost statement has been saved successfully."
+msgstr "Deine Kostenabrechnung wurde erfolgreich gespeichert"
+
+msgid "If there are no queries, you will receive the amount promptly transferred to your specified bank account."
+msgstr "Sofern es keine Rückfragen gibt, erhältst du den Betrag zeitnah an deine angegebene Bankverbindung überwiesen."
+
+msgid "If you have marked this as a donation, we thank you in advance!"
+msgstr "Hast du diesen als Spende gekennzeichnet, danken wir dir im Voraus!"
+
+msgid "Expense accounting"
+msgstr "Auslagenabrechnung"
+
+
+
+msgid "Travel expense accounting"
+msgstr "Fahrtkostenabrechnung"
+
+msgid "Select event"
+msgstr "Veranstaltung wählen"
+
+msgid "Continue"
+msgstr "Weiter"
+
+msgid "Date of receipt"
+msgstr "Belegdatum"
+
+msgid "Reason for payment"
+msgstr "Zahlungsgrund"
+
+msgid "Billing URL"
+msgstr "Abrechnungs-URL"
+
+msgid "Route"
+msgstr "Reiseweg"
+
+msgid "Driven distance"
+msgstr "Gefahrene Strecke"
+
+msgid "Costs for public transport"
+msgstr "Kosten für öffentliche Verkehrsmittel"
+
+msgid "Costs for expenses"
+msgstr "Kosten für Auslagen"
+
+msgid "Receipt submitted digitally on"
+msgstr "Beleg digital eingereicht am"
+
+msgid "Receipt confirmed on"
+msgstr "Beleg akzeptiert am"
+
+msgid "Receipt confirmed by"
+msgstr "Beleg akzeptiert von"
+
+msgid "Invoice quick search"
+msgstr "Rechnungsschnellsuche"
+
+msgid "Welcome to our Plugin!"
+msgstr "Willkommen zu unserem Plugin!"
+
+msgid "Problem faced by many associations"
+msgstr "Problemstellung vieler Vereine"
+
+msgid "Many associations know the problem: Whenever they organize an event, members have to pay for stuff and want to get their money back."
+msgstr "Viele Vereine kennen das Problem: Jedes Mal, wenn sie eine Veranstaltung organisieren, müssen Mitglieder Ausgaben vorstrecken und möchten ihr Geld zurückerhalten."
+
+msgid "The Solution"
+msgstr "Die Lösung"
+
+msgid "This tool helps by adding invoices or registering travel costs and also helps to create bank CSV data."
+msgstr "Dieses Tool hilft dabei, Rechnungen zu erstellen oder Reisekosten zu erfassen und unterstützt zudem bei der Erstellung von Bank-CSV-Daten."
+
+msgid "Features"
+msgstr "Funktionen"
+
+msgid "Add invoices:"
+msgstr "Rechnungen hinzufügen:"
+
+msgid "Record and manage all incurred invoices."
+msgstr "Erfasse und verwalte alle anfallenden Rechnungen."
+
+msgid "Register travel costs:"
+msgstr "Reisekosten registrieren:"
+
+msgid "Document and manage all travel costs."
+msgstr "Dokumentiere und bearbeite sämtliche Reisekosten."
+
+msgid "Create bank CSV data:"
+msgstr "Bank-CSV-Daten erstellen:"
+
+msgid "Generate the required CSV files for bank transfers."
+msgstr "Generiere die erforderlichen CSV-Dateien für die Banküberweisungen."
+
+msgid "Download invoices as PDF:"
+msgstr "Rechnungen als PDF herunterladen:"
+
+msgid "As a treasurer, you can easily download all invoices as PDF files."
+msgstr "Als Schatzmeister kannst du alle Rechnungen bequem als PDF-Dateien herunterladen."
+
+msgid "Note"
+msgstr "Hinweis"
+
+msgid "This tool was created for German legal purposes, so keep in mind that you have to modify the settings if you use it in another country."
+msgstr "Dieses Tool wurde für die deutsche Rechtslage entwickelt. Bitte beachte, dass du die Einstellungen anpassen musst, wenn du es in einem anderen Land verwendest."
+
+msgid "We wish you much success in using our plugin and look forward to your feedback!"
+msgstr "Wir wünschen dir viel Erfolg bei der Nutzung unseres Plugins und freuen uns auf dein Feedback!"
+
+msgid "Deny and correct request"
+msgstr "Abrechnung ablehnen und Korrektur erstellen"
+
+msgid "Correction in Invoice number"
+msgstr "Korrektur in Belegnummer"
+
+msgid "Personal data (Read only)"
+msgstr "Persönliche Daten (nur lesbar)"
+
+msgid "changed to"
+msgstr "geändert zu"
+
+msgid "Reason"
+msgstr "Begründung"
+
+msgid "Save and confirm"
+msgstr "Speichern und akzeptieren"
+
+msgid "Reason for correction"
+msgstr "Grund der Korrektur"
+
+msgid "Create a copy for splitting"
+msgstr "Kopie für Aufteilung erstellen"
+
+msgid "Tour"
+msgstr "Reiseweg"
+
+msgid "Account owner"
+msgstr "Name Kontoinhaber*in"
+
+msgid "Account Owner"
+msgstr "Name Kontoinhaber*in"
+
+msgid "Invoice successfully created"
+msgstr "Rechnung erfolgreich erstellt"
+
+msgid "The URL cannot be requested two times. Please go back to main page and try again."
+msgstr "Diese URL darf nicht doppelt aufgerufen werden. Bitte gehe zurück zur Startseite und versuche es erneut."
+
+msgid "Text ressource for "
+msgstr "Text-Ressource für "
+
+msgid "The text ressources were updated."
+msgstr "Die Text-Ressourcen wurden aktualisiert."
+
+msgid "No cost centers found"
+msgstr "Keine Abrechnungsstellen gefunden"
+
+msgid "Currently there is no event or job available, where you can add an invoice."
+msgstr "Aktuell gibt es keine Aktion und keine laufende Tätigkeit, für die du eine Abrechnung erstellen kannst."
+
+msgid "Please contact the treasurer to ask him to enable a cost unit."
+msgstr "Bitte kontaktiere den Schatzi, damit dieser eine Abrechnungsstelle freigeben kann."
+
+msgid "Text resources"
+msgstr "Text-Ressourcen"
+
+msgid "mareike settings"
+msgstr "mareike Einstellungen"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Receipt directory"
+msgstr "Upload-Verzeichnis für Belege"
+
+msgid "Every 24 hours"
+msgstr "Alle 24 Stunden"

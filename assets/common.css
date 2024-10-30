@@ -1,0 +1,165 @@
+#mareike-new-invoice-main-description {
+	width: 50%;
+	line-height: 2;
+	font-family: Aleo, Verdana;
+	font-weight: bold;
+	margin: 20px auto;
+}
+
+#auslagenform {
+	display: none;
+	width: 100%;
+}
+
+#fahrtkostenform {
+	display: none;
+	width: 100%;
+}
+
+
+
+@media screen and (max-width: 767px) {
+	#eventauswahl {
+		top: -500px !important;
+		position: absolute;
+	}
+}
+
+#mareike_new_invoice_index_table {
+	display: grid;
+	cursor: pointer;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 0.7fr));
+
+}
+
+@media (max-width: 800px) {
+	#mareike-new-invoice-main-description {
+		width: 100% !important;
+		margin: 0 !important;
+	}
+
+	fieldset {
+		width: 100% !important;
+	}
+
+	#mareike_new_invoice_index_table {
+		width: 350px;
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Umbrechen, sobald die Box 300 Pixel Breite hat */
+		grid-template-columns: repeat(auto-fit, 1fr) !important;
+	}
+
+	#mareike_new_invoice_index_table div {
+		width: 300px;
+		margin: 1em;
+		padding: 10px !important;
+	}
+}
+
+#mareike_new_invoice_index_table div {
+	box-shadow: 10px 10px 10px #e0e0e0;
+	border-radius: 10px;
+	padding: 5px 15px;
+	width: 90%;
+}
+
+#index_table div:nth-child(2):hover,
+#index_table div:nth-child(3):hover
+{
+	background-color: #FFCB04 !important;
+	color: #1d4899 !important;
+}
+
+info-icon {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+}
+
+info-icon::before {
+	content: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="%230056b3" /><text x="12" y="16" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">i</text></svg>');
+	font-size: 24px;
+}
+
+#addressdaten_header,
+#eventdaten_header {
+	background-color: #FFCB04;
+	border-radius: 10px 10px 0 0;
+	padding: 5px;
+	color: #1d4899;
+	font-weight: bold;
+	display: flex;
+}
+
+#addressdaten_header_text,
+#eventdaten_header_text {
+	width: 600px !important;
+}
+
+#addressdaten_close,
+#eventdaten_close {
+	cursor: pointer;
+}
+
+#addressdaten_content,
+#eventdaten_content {
+	padding: 10px;
+}
+
+info-icon .tooltip {
+	visibility: hidden;
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 5px;
+	border-color: #1da1f2;
+	border-width: 1px;
+	border-style: solid;
+	padding: 5px;
+	position: absolute;
+	box-shadow: 10px 10px 10px #e0e0e0;
+	z-index: 1;
+	bottom: 125%; /* Positionieren Sie den Tooltip über dem Symbol */
+	left: 50%;
+	margin-left: -10px;
+	margin-top: 0px;
+	opacity: 0;
+	transition: opacity 0.3s;
+	width: 450px;
+}
+
+info-icon .tooltip::after {
+	content: '';
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black transparent transparent transparent;
+}
+
+info-icon:hover .tooltip {
+	visibility: visible;
+	opacity: 1;
+}
+
+
+#hider {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 199;
+	background-color: rgba(0, 0, 0, 0.53);
+}
+
+fieldset {
+	width: 1fr !important;
+	border-color: #e0e0e0;
+	border-radius: 10px;
+	border-width: 1px;
+	border-style: solid;
+	line-height: 2;
+
+}

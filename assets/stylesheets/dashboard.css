@@ -1,0 +1,316 @@
+.mareike-invoice {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #c0c0c0;
+	box-shadow: 10px 10px 10px #e0e0e0;
+	width: 90%;
+	border-radius: 10px;
+	margin: 30px auto;
+	padding: 5px;
+	background-color: #ffffff;
+}
+
+.mareike-div-selector {
+	background-color: #ffffff;
+}
+
+.mareike-invoice h3 {
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e5e7eb;
+	border-radius: 10px;
+	padding: 0 60px 5px 20px;
+	border-left-width: 40px;
+	font-size: 12pt;
+	position: relative;
+	left: 25px;
+	width: 40%;
+	top: -30px;
+}
+
+.mareike-invoice table {
+	width: 100%;
+}
+.mareike-invoice table td {
+	padding: 5px 15px;
+	font-size: 12pt;
+}
+
+.mareike-invoice table td:first-child {
+	width: 200px;
+}
+
+.mareike-accept-button {
+	background-color: #36c054 !important;
+	color: #ffffff !important;
+}
+
+.mareike-deny-button {
+	background-color: #ee4b5c !important;
+	color: #ffffff !important;
+}
+
+.mareike-button-bar {
+	width: 90%;
+	margin: 30px auto;
+}
+
+.mareike-table {
+	width: 90%;
+	margin: auto;
+	box-shadow: 5px 5px 10px #e0e0e0 !important;
+}
+
+.mareike-event-action-button {
+	margin-top: 2px !important;
+	width: 180px;
+	text-align: center;
+}
+
+#mareike-deny-invoice-dialog {
+	display: none;
+	z-index: 256;
+	margin: -400px 200px;
+	position: absolute;
+	background-color: #ffffff !important;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #c0c0c0;
+	border-radius: 10px;
+	padding: 0px;
+	width: 420px !important;
+	height: 270px !important;
+}
+
+#mareike-deny-invoice-dialog-header
+{
+	background-color: #FFCB04;
+	border-radius: 10px 10px 0 0;
+	padding: 5px;
+	color: #1d4899;
+	font-weight: bold;
+	display: flex;
+}
+
+#mareike-deny-invoice-dialog-header-text
+{
+	width: 600px !important;
+}
+
+#mareike-deny-invoice-dialog-close {
+	cursor: pointer;
+}
+
+#mareike-deny-invoice-dialog-content {
+	padding: 10px;
+}
+
+
+#hider {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 2048px;
+	z-index: 1;
+	background-color: rgba(0, 0, 0, 0.53);
+}
+
+.mareike-back-button {
+	margin: 20px 40px !important;
+}
+
+.mareike-new-costunit-button {
+	width: 250px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-color: #0a58ca;
+	border-width: 1px;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.mareike-new-costunit-button:hover {
+	color: #ffffff;
+	background-color: #0a58ca;
+}
+
+.mareike-error,
+#mareike-missing-profile {
+	background-color: #f8c79d !important;
+	color: #e81313 !important;
+	border-style: solid !important;
+	border-width: 1px !important;
+	padding: 5px 10px;
+}
+
+.mareike-settings th,
+.mareike-settings td {
+	vertical-align: top;
+}
+
+.mareike-settings textarea {
+	width: 400px;
+	height: 300px;
+}
+
+.mareike-quick-search {
+	box-shadow: 5px 5px 10px #b2b2b2;
+	width: 95%;
+	font-size: 10pt;
+	margin: 20px 20px 60px auto;
+}
+
+.mareike-quick-search td {
+
+	text-align: right;
+}
+.mareike-quick-search td:first-child {
+	text-align: left;
+	font-weight: bold;
+	padding-left: 25px;
+}
+
+.mareike-quick-search td:nth-child(7),
+.mareike-quick-search td:nth-child(4)
+{
+	width: 1px;
+}
+
+.mareike-quick-search td:nth-child(6),
+.mareike-quick-search td:nth-child(3)
+{
+	width: 80px;
+}
+
+.mareike-quick-search td:nth-child(5) {
+	width: 140px;
+}
+
+.mareike-quick-search td:nth-child(5),
+.mareike-quick-search td:nth-child(3)
+{
+	padding-right: 10px;
+	padding-left: 0 !important;
+}
+
+.mareike-quick-search select {
+	width: 200px;
+}
+
+.mareike-quick-search input[type="number"] {
+width: 75px;
+}
+
+
+
+.mareike-welcome {
+	padding-left: 50px;
+}
+
+.mareike-welcome h4 {
+	font-weight: bold;
+	font-size: 13pt;
+}
+
+.mareike-welcome h5 {
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+.mareike-edit-invoice {
+	padding: 0 20px;
+}
+
+@media screen and (max-width: 1024px){
+	.mareike-quick-search td:nth-child(3) {
+		display: none;
+
+	}
+}
+
+.mareike-correct-invoice {
+	margin-bottom: 60px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e0e0e0;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 5px 5px 10px #e0e0e0;
+}
+
+.mareike-correct-invoice select
+{
+	width: 500px;
+}
+
+.mareike-correct-invoice input[type='text'] {
+	width: 360px;
+}
+
+.mareike-correct-invoice:first-child {
+
+}
+.mareike-correct-invoice th {
+	text-align: left;
+}
+
+.mareike-button {
+	cursor: pointer;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.mareike-button:hover {
+	background-color: #0d66c2;
+	color: #ffffff;
+}
+
+.mareike-select {
+	padding: 7px;
+	border-color: #e5e7eb;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #ffffff;
+	font-size: 16px; /* Schriftgröße der Select-Box */
+	padding: 10px; /* Padding innerhalb der Select-Box */
+}
+
+.mareike-select option {
+	font-size: 16px; /* Schriftgröße der Optionen */
+	padding: 25px; /* Padding innerhalb der Optionen */
+	height: 60px; /* Höhe der Optionen */
+	font-size: 16px; /* Schriftgröße der Optionen */
+	padding: 50px !important; /* Padding innerhalb der Optionen */
+	/* height: 30px; Wird hier nicht verwendet */
+}
+
+.mareike-text {
+	background-color: #ffffff;
+	padding: 7px;
+	border-color: #e5e7eb;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+wpwrap {
+	background-color: #ffffff !important;
+}
+.mareike-auslagen {
+	border-style: solid;
+	border-color: #e5e7eb;
+	border-width: 1px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #e0e0e0;
+	width: 85%;
+	margin: auto;
+	margin-bottom: 25px;
+}

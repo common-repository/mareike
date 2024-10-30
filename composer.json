@@ -1,0 +1,10 @@
+{
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "illuminate/database": "^11.21",
+        "illuminate/filesystem": "^11.21",
+        "maennchen/zipstream-php": "^3.1",
+        "contelli/easy-pdf-merger": "^1.0",
+        "laravel/serializable-closure": "^1.3"
+    }
+}
